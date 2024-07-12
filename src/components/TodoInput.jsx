@@ -15,7 +15,7 @@ export default function TodoInput(props) {
                 setTodoValue('')
 
             }}>Add</button>  
-            TodoInput
+            
         </header>
     )
 }
